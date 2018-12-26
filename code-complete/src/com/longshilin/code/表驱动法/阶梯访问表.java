@@ -1,4 +1,4 @@
-package com.longshilin.code.tableDriven;
+package com.longshilin.code.表驱动法;
 
 
 /**
@@ -15,6 +15,8 @@ public class 阶梯访问表 {
   /**
    * 阶梯表查询
    * 通过输入分数，得到学习的等级
+   * 
+   * 延伸：当需要将数值转换成表的键值时，可以将其封装为method这样的子程序；输入数值，得到键值对；
    * @param studentScore
    */
   public static String method(int studentScore) {
