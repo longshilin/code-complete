@@ -1,5 +1,6 @@
 # Key Point
 abc
+123
 ## Java的规则
 - i 和 j 是整数下标。
 - 常量全部大写（ALL_CAPS）并用下划线分隔。
